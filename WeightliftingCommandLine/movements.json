@@ -1,0 +1,35 @@
+[
+    {
+        "description": "",
+        "name": "Hang Snatch",
+        "uuid": "bb7fec64-33b9-4fb4-930a-e35dd8071bff"
+    },
+    {
+        "description": "",
+        "name": "Snatch",
+        "uuid": "20662395-8980-4f24-a8d6-08dcc6062a75"
+    },
+    {
+        "description": "",
+        "movements": [
+            {
+                "movement": {
+                    "description": "",
+                    "name": "Snatch",
+                    "uuid": "20662395-8980-4f24-a8d6-08dcc6062a75"
+                },
+                "reps": 1
+            },
+            {
+                "movement": {
+                    "description": "",
+                    "name": "Hang Snatch",
+                    "uuid": "bb7fec64-33b9-4fb4-930a-e35dd8071bff"
+                },
+                "reps": 1
+            }
+        ],
+        "name": "Snatch, Hang Snatch",
+        "uuid": "8f9a227e-2912-4e2a-8017-b9bfe1403735"
+    }
+]

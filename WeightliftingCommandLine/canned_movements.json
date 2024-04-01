@@ -1,0 +1,68 @@
+[
+    {
+        "description": "",
+        "name": "Clean",
+        "uuid": "ae3cb17c-c9d5-4e71-b664-1f26d64d7d03"
+    },
+    {
+        "description": "",
+        "movements": [
+            {
+                "movement": {
+                    "description": "",
+                    "name": "Clean",
+                    "uuid": "ae3cb17c-c9d5-4e71-b664-1f26d64d7d03"
+                },
+                "reps": 1
+            },
+            {
+                "movement": {
+                    "description": "",
+                    "name": "Jerk",
+                    "uuid": "4dcedf43-66f1-4bb1-8e2a-008c5a5a0088"
+                },
+                "reps": 1
+            }
+        ],
+        "name": "Clean & Jerk",
+        "uuid": "11af85dc-cea3-4313-bfe3-2342e1865aa0"
+    },
+    {
+        "description": "",
+        "name": "Hang Snatch",
+        "uuid": "a0eca1dc-a2b3-45d7-909f-54d775804702"
+    },
+    {
+        "description": "",
+        "name": "Jerk",
+        "uuid": "4dcedf43-66f1-4bb1-8e2a-008c5a5a0088"
+    },
+    {
+        "description": "",
+        "name": "Snatch",
+        "uuid": "bbb04ab6-de00-4fff-b824-f9cee2a2f1b9"
+    },
+    {
+        "description": "",
+        "movements": [
+            {
+                "movement": {
+                    "description": "",
+                    "name": "Snatch",
+                    "uuid": "bbb04ab6-de00-4fff-b824-f9cee2a2f1b9"
+                },
+                "reps": 2
+            },
+            {
+                "movement": {
+                    "description": "",
+                    "name": "Hang Snatch",
+                    "uuid": "a0eca1dc-a2b3-45d7-909f-54d775804702"
+                },
+                "reps": 2
+            }
+        ],
+        "name": "Snatch and Hang Snatch",
+        "uuid": "48a3d691-5827-465d-8b50-a1ff3224e651"
+    }
+]
